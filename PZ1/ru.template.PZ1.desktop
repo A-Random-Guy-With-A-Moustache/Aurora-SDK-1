@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.PZ1
+Exec=/usr/bin/ru.template.PZ1
+Name=PZ1
+Name[ru]=ПЗ1
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=PZ1
+ExecDBus=/usr/bin/ru.template.PZ1
